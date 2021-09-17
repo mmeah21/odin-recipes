@@ -1,0 +1,1 @@
+This project aims to create a basic recipe website. This will have a main index page with links to a couple recipes. This project aims to practice what I learned about HTML from The Odin Project. 
